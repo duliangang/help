@@ -42,10 +42,8 @@
 #### 3.  列表2  ####
 #### 4.  列表3  ####
 
-
-     Name | Academy | score   
-     Harry Potter | Gryffindor| 90   
-     Hermione Granger | Gryffindor | 100   
-     Draco Malfoy | Slytherin | 90  
-
+| 左对齐标题 | 右对齐标题 | 居中对齐标题 |
+| :------| ------: | :------: |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
 
